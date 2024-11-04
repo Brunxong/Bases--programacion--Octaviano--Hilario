@@ -1,3 +1,6 @@
+https://github.com/Brunxong/Bases--programacion--Octaviano--Hilario.git
+
+
 Enunciado de los ejercicios: Ejercicios por parejas/trios con un único repositorio en Github
 Declaración de variables (ENTREGA OBLIGATORIA 05.11.2024)
 
